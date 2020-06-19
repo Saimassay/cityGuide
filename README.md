@@ -1,5 +1,5 @@
 # cityGuide
-Website about city for midterm project
+Website about city for midterm project of front end course
 
 ![](cityGuide1.png)
 
